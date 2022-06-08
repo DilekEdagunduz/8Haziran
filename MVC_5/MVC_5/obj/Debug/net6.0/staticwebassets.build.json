@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "aum5ACD5e/MoEOzesbvrLRO2PLfmBlThFYAZKPAxo44=",
+  "Source": "MVC_5",
+  "BasePath": "_content/MVC_5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVC_5\\wwwroot",
+      "Source": "MVC_5",
+      "ContentRoot": "C:\\Users\\z004jk1r\\source\\repos\\MVC_5\\MVC_5\\wwwroot\\",
+      "BasePath": "_content/MVC_5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\z004jk1r\\source\\repos\\MVC_5\\MVC_5\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "MVC_5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\z004jk1r\\source\\repos\\MVC_5\\MVC_5\\wwwroot\\",
+      "BasePath": "_content/MVC_5",
+      "RelativePath": "assets/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\z004jk1r\\source\\repos\\MVC_5\\MVC_5\\wwwroot\\css\\styles.css",
+      "SourceId": "MVC_5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\z004jk1r\\source\\repos\\MVC_5\\MVC_5\\wwwroot\\",
+      "BasePath": "_content/MVC_5",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\z004jk1r\\source\\repos\\MVC_5\\MVC_5\\wwwroot\\js\\scripts.js",
+      "SourceId": "MVC_5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\z004jk1r\\source\\repos\\MVC_5\\MVC_5\\wwwroot\\",
+      "BasePath": "_content/MVC_5",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ]
+}
